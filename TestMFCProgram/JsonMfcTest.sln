@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "JsonMfcTest", "JsonMfcTest\JsonMfcTest.vcxproj", "{FE716519-38FB-4E39-9636-E2E3FB31E1BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE716519-38FB-4E39-9636-E2E3FB31E1BA}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FE716519-38FB-4E39-9636-E2E3FB31E1BA}.Debug|Win32.Build.0 = Debug|Win32
+		{FE716519-38FB-4E39-9636-E2E3FB31E1BA}.Release|Win32.ActiveCfg = Release|Win32
+		{FE716519-38FB-4E39-9636-E2E3FB31E1BA}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
